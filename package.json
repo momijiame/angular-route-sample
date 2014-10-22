@@ -1,0 +1,14 @@
+{
+  "name": "angular-routing-sample",
+  "version": "0.0.1",
+  "description": "Angular Routing Sample Application",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ASL",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-webserver": "^0.8.3"
+  }
+}
